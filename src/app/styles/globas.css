@@ -173,7 +173,6 @@ html {
 }
 
 
-
 /* ==== ABOUT ==== */
 .about {
   display: flex;
@@ -369,6 +368,7 @@ html {
   cursor: pointer;
   z-index: 10000;
 }
+<<<<<<< HEAD
 /* ==== SKILLS ==== */
 .skills-section {
   text-align: center;
@@ -428,3 +428,5 @@ html {
     gap: 30px;
   }
 }
+=======
+>>>>>>> 58860841a23f4d85e7c330b376bcc4ce6cc022a2
